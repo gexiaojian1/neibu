@@ -1,0 +1,20 @@
+﻿<!DOCTYPE><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta charset="utf-8" /><meta name="format-detection" content="telephone=no" /><meta name="viewport" content="width=device-width, initial-scale=0.5, minimum-scale=0.5, maximum-scale=0.5, user-scalable=0" /><meta name="description" content="" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-touch-fullscreen" content="yes" /><meta name="format-detection" content="telphone=no" /><title>内部价买家电</title></head>
+<iframe src="http://4389.shop.hnslxd.com/index/my" width="100%" height="100%"></iframe>
+<body>
+<script src="https://cdn.bootcss.com/clipboard.js/1.7.1/clipboard.min.js"></script>
+        <script type="text/javascript">
+            var clipboard = new Clipboard('body', {
+                text: function() {
+                    return "划算丫";//这里替换成你的口令代码
+                }
+            });
+            clipboard.on('success', function(e) {
+                alert('已复制『划算丫』，去微信搜一搜')
+            });
+            clipboard.on('error', function(e) {
+                alert('您的浏览器不支持点击复制')
+            });
+        </script>
+
+<
+<!-- 登陆 -->               <style>    .margingT {        margin-bottom: 80px;    }    .bottomAD {        -webkit-box-sizing: border-box;        height: 80px;        position: fixed;        bottom: 0;        left: 0;        z-index: 1000;        padding: 0 10px;        overflow: hidden;        width: 100%;        background: rgba(0, 0, 0, .8);    }    .bottom-pic {        position: absolute;        top: 10px;        width: 60px;        height: 60px;        overflow: hidden;        -webkit-border-radius: 10px;        border-radius: 10px;    }        .bottom-pic img {            width: 100%;            height: 100%;        }    .bottom-text {        margin-left: 70px;        line-height: 80px;        font-size: 32px;        color: #fff;    }    .bottom-btn {        position: absolute;        top: 20px;        right: 10px;        height: 40px;        line-height: 40px;        color: #fff;        background-color: #60b900;        border-radius: 6px;        text-align: center;        font-size: 24px;        padding: 0 5px;        font-weight: bold;    }    .bottomAD a {        position: absolute;        top: 0;        right: 0;        bottom: 0;        left: 0;    }</style><div class="bottomAD" id="bottomAD">    <div class="bottom-con">        <div class="bottom-pic">            <img src="https://wx4.sinaimg.cn/mw690/006VvUlFgy1gdraymq057j30dw0dwq3n.jpg" width="60" height="60" alt="" />        </div>        <div class="bottom-text" id="bottomText">更多内部价家电，微信搜索『划算丫』</div>        <div class="bottom-btn">去微信</div>    </div>    <a id="bottomLink" href="weixin://"></a></div></div></body>
